@@ -1,0 +1,4 @@
+- handle spi response
+- optimization
+- cleanup
+- testing
